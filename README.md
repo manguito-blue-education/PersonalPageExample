@@ -1,2 +1,5 @@
-# Html Video Example
-Example of how to use Video Tag in HTML
+# Personal Page Demo
+
+This is a simple page which resembles a personal page.
+
+![screenshot](./screenshot.png)
